@@ -1,4 +1,4 @@
-# -Micro-Service-Framework-Virtual-Bookstore
+# Micro-Service-Framework-Online-Bookstore
 
 Multithreaded Online Book Store in Java:
 
